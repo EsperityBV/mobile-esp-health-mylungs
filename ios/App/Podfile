@@ -29,7 +29,6 @@ end
 target 'App' do
   capacitor_pods
   # Add your Pods here
-  pod 'FirebaseMessaging'
   pod 'CapacitorFirebaseAnalytics/AnalyticsWithoutAdIdSupport', :path => '../../node_modules/@capacitor-firebase/analytics'
 end
 

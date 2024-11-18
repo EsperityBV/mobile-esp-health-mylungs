@@ -60,5 +60,7 @@
 	<true/>
 	<key>FirebaseAutomaticScreenReportingEnabled</key>
 	<false/>
+	<key>FirebaseInAppMessagingAutomaticDataCollectionEnabled</key>
+	<true/>
 </dict>
 </plist>
