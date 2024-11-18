@@ -3,6 +3,9 @@
   "appName": "My Lungs App",
   "webDir": "dist",
   "plugins": {
+    "FirebaseMessaging": {
+      "presentationOptions": ["badge", "sound", "alert"]
+    },
     "SplashScreen": {
       "launchShowDuration": 4000,
       "launchAutoHide": true,

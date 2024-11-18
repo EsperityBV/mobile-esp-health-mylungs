@@ -14,9 +14,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@capacitor-community/fcm": "^6.0.0",
-    "@capacitor-community/file-opener": "^6.0.1",
-    "@capacitor-community/firebase-analytics": "^6.0.0",
+    "@capacitor-community/file-opener": "github:capacitor-community/file-opener",
+    "@capacitor-firebase/analytics": "^6.2.0",
+    "@capacitor-firebase/messaging": "^6.2.0",
     "@capacitor/android": "^6.1.2",
     "@capacitor/app": "^6.0.1",
     "@capacitor/camera": "^6.1.0",
@@ -29,9 +29,9 @@
     "@capacitor/ios": "^6.1.2",
     "@capacitor/keyboard": "^6.0.2",
     "@capacitor/network": "^6.0.2",
-    "@capacitor/push-notifications": "^6.0.2",
     "@capacitor/splash-screen": "^6.0.2",
-    "@capacitor/status-bar": "^6.0.1"
+    "@capacitor/status-bar": "^6.0.1",
+    "firebase": "^10.14.1"
   },
   "devDependencies": {
     "@capacitor/cli": "^6.1.2",
@@ -39,7 +39,7 @@
     "cssnano": "^6.1.2",
     "dotenv": "^16.4.5",
     "postcss": "^8.4.49",
-    "tailwindcss": "^3.4.14",
+    "tailwindcss": "^3.4.15",
     "vite": "^5.4.11"
   },
   "author": "",
