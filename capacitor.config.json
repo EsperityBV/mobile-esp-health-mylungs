@@ -1,0 +1,32 @@
+{
+  "appId": "com.esperity.apps.partners.mylungs",
+  "appName": "My Lungs App",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 4000,
+      "launchAutoHide": true,
+      "launchFadeOutDuration": 500,
+      "backgroundColor": "#ffffff",
+      "showSpinner": false
+    }
+  },
+  "ios": {
+    "preferredContentMode": "mobile",
+    "limitsNavigationsToAppBoundDomains": true
+  },
+  "android": {},
+  "server": {
+    "allowNavigation": [
+      "mylungs.health.esperity.com",
+      "health.esperity.com",
+      "*.esperity.com",
+      "*.education.esperity.com",
+      "*.patientjourney.esperity.com",
+      "docs.google.com",
+      "esp-health.keypoint.dev",
+      "mylungs.be",
+      "*.mylungs.be"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550492664392",
+    "project_id": "esperity-health---mylungs",
+    "storage_bucket": "esperity-health---mylungs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550492664392:android:2052c44f1d865bfa655e7d",
+        "android_client_info": {
+          "package_name": "com.esperity.apps.partners.mylungs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCi18XOrE-xnl4Wpq2NvlfQBqbaps3Hjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
