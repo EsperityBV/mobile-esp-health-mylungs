@@ -62,5 +62,7 @@
 	<false/>
 	<key>FirebaseInAppMessagingAutomaticDataCollectionEnabled</key>
 	<true/>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>If at some point we request access to your location, this will be used exclusively to enable application features which benefit you.</string>
 </dict>
 </plist>
