@@ -35,6 +35,7 @@
             <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/file_paths" />
         </provider>
 
+<!--        <meta-data android:name="google_analytics_default_allow_ad_personalization_signals" android:value="false" />-->
         <meta-data android:name="google_analytics_automatic_screen_reporting_enabled" android:value="false" />
         <meta-data android:name="google_analytics_adid_collection_enabled" android:value="false" />
         <meta-data android:name="firebase_inapp_messaging_auto_data_collection_enabled" android:value="true" />
